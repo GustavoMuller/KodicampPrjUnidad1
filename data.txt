@@ -1,0 +1,12 @@
+gustavo|5.0
+alejandro|5.0
+muller|5.0
+mancia|6.0
+qwerty|4.0
+
+*Estadísticas de los registros: 
+Máximo: 6.0
+Mínimo: 4.0
+Promedio: 5.0
+Más repetido: [5.0]. Repeticiones: 3
+Menos repetido: [6.0, 4.0]. Repeticiones: 1
